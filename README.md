@@ -1,4 +1,4 @@
-## Olá! Eu sou a Kassiane Mendes
+## Olá! Eu sou Kassiane Mendes
 
 Entusiasta por tecnologia, autodidata e curiosa.
 
