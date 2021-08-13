@@ -1,4 +1,4 @@
-## Olá! Eu sou Kassiane Mendes
+## Olá! Sou a Kassi
 
 
 - 🌱 Estudando HTML, CSS e JS
