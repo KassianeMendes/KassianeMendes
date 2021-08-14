@@ -1,7 +1,7 @@
 ## Olá! Sou a Kassi
 
 
-- 🌱 Estudando HTML, CSS e JS
+- 🌱 Estudando CSS e JS
 - 😄 Pronomes: ela/dela
 - ⚡ Tech recruiter iniciando os estudos em desenvolvimento e tecnologia
 
